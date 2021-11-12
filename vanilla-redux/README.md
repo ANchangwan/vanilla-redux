@@ -19,3 +19,7 @@ console.log(countStore.getState());
 
 실행 : 1
 ```
+
+## State Mutation
+새로운 state를 create하고 그 새로운 state를 return한다.
+\
